@@ -76,7 +76,7 @@ http://stream.crlive1.osllacdn.com/goldenedgecr/vxfmt=dp/playlist.m3u8?device_pr
 
 http://stream.crlive2.osllacdn.com/paramounthdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
 
-#EXTINF:-1 tvg-chno="65" tvg-country="USA" tvg-id="Tntnovelas.USA" tvg-language="Español" group-title="Series", TNT Novelas HD
+#EXTINF:-1 tvg-chno="124" tvg-country="USA" tvg-id="Tntnovelas.USA" tvg-language="Español" group-title="Series", TNT Novelas HD
 
 http://stream.crlive1.osllacdn.com/tntnovelascr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
