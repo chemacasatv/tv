@@ -8,13 +8,49 @@ http://stream.crlive1.osllacdn.com/canal1hdcr/vxfmt=dp/playlist.m3u8?device_prof
 
 http://stream.crlive1.osllacdn.com/canal2cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
+#EXTINF:-1 tvg-chno="3" tvg-country="CR" tvg-id="Asamblea.CR" tvg-language="Español" group-title="Costa Rica", Asamblea
+
+http://stream.crlive1.osllacdn.com/asambleacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
 #EXTINF:-1 tvg-chno="4" tvg-country="CR" tvg-id="Canal4.CR" tvg-language="Español" group-title="Costa Rica", Canal 4  
 
 http://stream.crlive1.osllacdn.com/canal4cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
+#EXTINF:-1 tvg-chno="5" tvg-country="CR" tvg-id="Vmlatino.CR" tvg-language="Español" group-title="Musica", VM Latino 
+
+http://stream.crlive1.osllacdn.com/vmlatinocr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="Canal6.CR" tvg-language="Español" group-title="Costa Rica", Canal 6 HD
+
+http://stream.crlive1.osllacdn.com/canal6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal7.CR" tvg-language="Español" group-title="Costa Rica", Canal 7 HD
+
+http://stream.crlive1.osllacdn.com/teleticahdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="8" tvg-country="CR" tvg-id="Multimedios.CR" tvg-language="Español" group-title="Costa Rica", Multimedios HD
+
+http://stream.crlive1.osllacdn.com/multimedioshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="9" tvg-country="CR" tvg-id="Canal9.CR" tvg-language="Español" group-title="Costa Rica", Canal 9
+
+http://stream.crlive1.osllacdn.com/canal9cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
 #EXTINF:-1 tvg-chno="10" tvg-country="CR" tvg-id="Xpertv.CR" tvg-language="Español" group-title="Costa Rica", Xpertv 
 
 http://stream.crlive1.osllacdn.com/xpertvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="11" tvg-country="CR" tvg-id="Canal11.CR" tvg-language="Español" group-title="Costa Rica", Canal 11 HD
+
+http://stream.crlive1.osllacdn.com/canal11hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="12" tvg-country="CR" tvg-id="Opa.CR" tvg-language="Español" group-title="Costa Rica", OPA HD
+
+http://stream.crlive1.osllacdn.com/opacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="13" tvg-country="CR" tvg-id="Canal13sinart.CR" tvg-language="Español" group-title="Costa Rica", Canal 13 Sinart HD
+
+http://stream.crlive1.osllacdn.com/canal13sinarthdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="14" tvg-country="CR" tvg-id="Extratv42.CR" tvg-language="Español" group-title="Costa Rica", Extra tv 42 
 
@@ -24,289 +60,25 @@ http://stream.crlive1.osllacdn.com/extratv42hdcr/vxfmt=dp/playlist.m3u8?device_p
 
 http://stream.crlive1.osllacdn.com/canalucr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="90" tvg-country="MX" tvg-id="Telenovelas.MX" tvg-language="Español" group-title="Entretenimiento", Telenovelas
-
-http://stream.crlive2.osllacdn.com/tlnovelaspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="123" tvg-country="MX" tvg-id="Agrotendencia.MX" tvg-language="Español" group-title="Entretenimiento", Agrotendencia
-
-http://stream.crlive2.osllacdn.com/agropan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="12" tvg-country="CR" tvg-id="Opa.CR" tvg-language="Español" group-title="Costa Rica", Opa HD
-
-http://stream.crlive1.osllacdn.com/opacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="9" tvg-country="CR" tvg-id="Canal9.CR" tvg-language="Español" group-title="Costa Rica", Canal 9
-
-http://stream.crlive1.osllacdn.com/canal9cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="122" tvg-country="CR" tvg-id="Asamblea.CR" tvg-language="Español" group-title="Costa Rica", Asamblea
-
-http://stream.crlive1.osllacdn.com/asambleacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="16" tvg-country="CR" tvg-id="Enlace.CR" tvg-language="Español" group-title="Religioso", Enlace
+#EXTINF:-1 tvg-chno="16" tvg-country="CR" tvg-id="Enlace.CR" tvg-language="Español" group-title="Costa Rica", Enlace
 
 http://stream.crlive2.osllacdn.com/enlacepan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="31" tvg-country="ARG" tvg-id="Goltv.ARG" tvg-language="Español" group-title="Deportes", Gol TV 
+#EXTINF:-1 tvg-chno="17" tvg-country="CR" tvg-id="Telered.CR" tvg-language="Español" group-title="Costa Rica", Telered HD
 
-http://stream.crlive2.osllacdn.com/goltvhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+http://stream.crlive1.osllacdn.com/teleredhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="32" tvg-country="USA" tvg-id="Turbo.USA" tvg-language="Español" group-title="Deportes", TURBO 
+#EXTINF:-1 tvg-chno="18" tvg-country="CR" tvg-id="Teleunotv.CR" tvg-language="Español" group-title="Costa Rica", Tele Uno TV HD
 
-http://stream.crlive2.osllacdn.com/discturbopan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="33" tvg-country="USA" tvg-id="Nfl.USA" tvg-language="Español" group-title="Deportes", NFL 
-
-http://stream.crlive1.osllacdn.com/nflnetworkcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="112" tvg-country="USA" tvg-id="Bitme.USA" tvg-language="Español" group-title="Infantiles", BITME
-
-http://stream.crlive1.osllacdn.com/bitmecr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="75" tvg-country="USA" tvg-id="Tcm.USA" tvg-language="Español" group-title="Peliculas", TCM 
-
-http://stream.crlive2.osllacdn.com/tcmpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="73" tvg-country="USA" tvg-id="Edge.USA" tvg-language="Español" group-title="Peliculas", EDGE
-
-http://stream.crlive1.osllacdn.com/goldenedgecr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="74" tvg-country="USA" tvg-id="Paramount.USA" tvg-language="Español" group-title="Peliculas", Paramount
-
-http://stream.crlive2.osllacdn.com/paramounthdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="124" tvg-country="USA" tvg-id="Tntnovelas.USA" tvg-language="Español" group-title="Series", TNT Novelas HD
-
-http://stream.crlive1.osllacdn.com/tntnovelascr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="59" tvg-country="USA" tvg-id="Glitz.USA" tvg-language="Español" group-title="Entretenimiento", Glitz 
-
-http://stream.crlive2.osllacdn.com/glitzpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="60" tvg-country="USA" tvg-id="Trutv.USA" tvg-language="Español" group-title="Documentales", Trutv
-
-http://stream.crlive1.osllacdn.com/trutvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="61" tvg-country="USA" tvg-id="Isat.USA" tvg-language="Español" group-title="Entretenimiento", i Sat 
-
-http://stream.crlive2.osllacdn.com/isatpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="62" tvg-country="USA" tvg-id="Syfy.USA" tvg-language="Español" group-title="Documentales", SYFY 
-
-http://stream.crlive2.osllacdn.com/syfypan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="39" tvg-country="USA" tvg-id="Hgtvlat.USA" tvg-language="Español" group-title="USA", HGTV USA 
-
-http://stream.crlive2.osllacdn.com/hgtvhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="36" tvg-country="MX" tvg-id="Distritocomedia.MX" tvg-language="Español" group-title="Comedia", Distrito Comedia 
-
-http://stream.crlive1.osllacdn.com/distritocomediacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="81" tvg-country="USA" tvg-id="Cnnesp.USA" tvg-language="Español" group-title="Noticias", CNN Esp 
-
-http://stream.crlive2.osllacdn.com/cnnesppan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="82" tvg-country="USA" tvg-id="Foxnews.USA" tvg-language="Ingles" group-title="Noticias", Fox News 
-
-http://stream.crlive2.osllacdn.com/foxnewspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="84" tvg-country="USA" tvg-id="Hln.USA" tvg-language="Ingles" group-title="Noticias", HLN 
-
-http://stream.crlive2.osllacdn.com/hlnpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="83" tvg-country="USA" tvg-id="Cnnint.USA" tvg-language="Ingles" group-title="Noticias", CNN INT 
-
-http://stream.crlive2.osllacdn.com/cnnintpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="85" tvg-country="USA" tvg-id="Bloom.USA" tvg-language="Ingles" group-title="Noticias", Bloom 
-
-http://stream.crlive2.osllacdn.com/bloombergpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="86" tvg-country="USA" tvg-id="Cnbc.USA" tvg-language="Ingles" group-title="Noticias", CNBC 
-
-http://stream.crlive1.osllacdn.com/cnbccr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="87" tvg-country="USA" tvg-id="7news.USA" tvg-language="Ingles" group-title="Noticias", 7 News
-
-http://stream.crlive1.osllacdn.com/7newscr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="88" tvg-country="USA" tvg-id="Wgn9.USA" tvg-language="Ingles" group-title="Noticias", WGN9 
-
-http://stream.crlive1.osllacdn.com/wgncr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="89" tvg-country="USA" tvg-id="Bbcnews.USA" tvg-language="Ingles" group-title="Noticias", BBC News 
-
-http://stream.crlive2.osllacdn.com/bbcworldhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="90" tvg-country="ESP" tvg-id="Tve.ESP" tvg-language="Español" group-title="Internacional", TVE 
-
-http://stream.crlive1.osllacdn.com/tvecr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="91" tvg-country="ESP" tvg-id="Antena3.ESP" tvg-language="Español" group-title="Internacional", Antena 3 
-
-http://stream.crlive2.osllacdn.com/antena3pan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="92" tvg-country="MX" tvg-id="Aztecaint.MX" tvg-language="Español" group-title="Internacional", Azteca Int S
-
-http://stream.crlive2.osllacdn.com/azmunpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="93" tvg-country="COL" tvg-id="Rcn.COL" tvg-language="Español" group-title="Internacional", RCN 
-
-http://stream.crlive2.osllacdn.com/nuestratelpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="94" tvg-country="VEN" tvg-id="Golboint.VEN" tvg-language="Español" group-title="Internacional", Globo Int 
-
-http://stream.crlive1.osllacdn.com/globovisioncr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="95" tvg-country="ARG" tvg-id="Eltrece.ARG" tvg-language="Español" group-title="Internacional", El Trece 
-
-http://stream.crlive2.osllacdn.com/canal13pan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="96" tvg-country="ARG" tvg-id="TN.ARG" tvg-language="Español" group-title="Internacional", TN 
-
-http://stream.crlive1.osllacdn.com/tncr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="97" tvg-country="ARG" tvg-id="Telefe.ARG" tvg-language="Español" group-title="Internacional", Telefe 
-
-http://stream.crlive2.osllacdn.com/telefepan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="98" tvg-country="CHI" tvg-id="Tvchile.CHI" tvg-language="Español" group-title="Internacional", Tv Chile 
-
-http://stream.crlive2.osllacdn.com/tvchilepan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="99" tvg-country="BRA" tvg-id="Tvglobo.BRA" tvg-language="Portugues" group-title="Internacional", TV Globo 
-
-http://stream.crlive1.osllacdn.com/tvglobocr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="100" tvg-country="FRA" tvg-id="TV5monde.COL" tvg-language="Frances" group-title="Internacional", Tv5 Monde 
-
-http://stream.crlive2.osllacdn.com/tv5pan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="101" tvg-country="ITA" tvg-id="Rai.ITA" tvg-language="Español" group-title="Internacional", RAI 
-
-http://stream.crlive2.osllacdn.com/raiitaliapan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="102" tvg-country="GER" tvg-id="Dwesp.GER" tvg-language="Español" group-title="Internacional", DW Latino 
-
-http://stream.crlive2.osllacdn.com/dwpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="103" tvg-country="GER" tvg-id="DW.GER" tvg-language="ALeman" group-title="Internacional", DW 
-
-http://stream.crlive2.osllacdn.com/dwpluspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="104" tvg-country="CHIN" tvg-id="Cctv4.CHIN" tvg-language="Chino" group-title="Internacional", CCTV4 
-
-http://stream.crlive1.osllacdn.com/cctv4cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="105" tvg-country="KOR" tvg-id="Arirang.KOR" tvg-language="Chino" group-title="Internacional", Arirang 
-
-http://stream.crlive2.osllacdn.com/arirangpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="106" tvg-country="JAP" tvg-id="Nhk.JAP" tvg-language="Ingles" group-title="Internacional", NHK 
-
-http://stream.crlive2.osllacdn.com/nhkpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="107" tvg-country="USA" tvg-id="Bet.USA" tvg-language="Ingles" group-title="USA", BET 
-
-http://stream.crlive1.osllacdn.com/blackentertainmentcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="108" tvg-country="NIC" tvg-id="Canal10.NIC" tvg-language="Ingles" group-title="USA", Canal 10 Nicaragua 
-
-http://stream.crlive1.osllacdn.com/canal10cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+http://stream.crlive1.osllacdn.com/teleunohdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="19" tvg-country="CR" tvg-id="Canal54.CR" tvg-language="Español" group-title="Costa Rica", Canal 54
 
 http://stream.crlive1.osllacdn.com/canal54cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="109" tvg-country="MX" tvg-id="Telehit.MX" tvg-language="Español" group-title="Musica", Telehit 
+#EXTINF:-1 tvg-chno="20" tvg-country="CR" tvg-id="Futv.CR" tvg-language="Español" group-title="Deportes", FUTV HD
 
-http://stream.crlive2.osllacdn.com/telehitpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
-
-#EXTINF:-1 tvg-chno="5" tvg-country="CR" tvg-id="Vmlatino.CR" tvg-language="Español" group-title="Musica", VM Latino 
-
-http://stream.crlive1.osllacdn.com/vmlatinocr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="110" tvg-country="USA" tvg-id="Mtv80s.USA" tvg-language="Español" group-title="Musica", MTV 80s 
-
-http://stream.crlive1.osllacdn.com/vh1claasiccr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="111" tvg-country="MX" tvg-id="Htv.MX" tvg-language="Español" group-title="Musica", Htv 
-
-http://stream.crlive1.osllacdn.com/htvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-
-#EXTINF:-1 tvg-chno="72" tvg-country="USA" tvg-id="GoldenPremier.USA" tvg-language="Español e Ingles" group-title="Peliculas", Golden Premier HD
-
-http://stream.crlive1.osllacdn.com/goldenpremierhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="63" tvg-country="USA" tvg-id="Hbolat.USA" tvg-language="Español" group-title="Peliculas", HBO HD
-
-http://stream.crlive1.osllacdn.com/hbohdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="64" tvg-country="USA" tvg-id="Hbo2.USA" tvg-language="Español" group-title="Peliculas", HBO 2 HD
-
-http://stream.crlive1.osllacdn.com/hbo2hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="65" tvg-country="USA" tvg-id="Hbofamily.USA" tvg-language="Español" group-title="Peliculas", HBO Family HD
-
-http://stream.crlive1.osllacdn.com/hbofamilyhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="66" tvg-country="USA" tvg-id="Hbosignature.USA" tvg-language="Español" group-title="Peliculas", HBO Signature HD
-
-http://stream.crlive1.osllacdn.com/hbosignaturehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="67" tvg-country="USA" tvg-id="Hboplus.USA" tvg-language="Español" group-title="Peliculas", HBO+ HD
-
-http://stream.crlive1.osllacdn.com/hboplusestehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="68" tvg-country="USA" tvg-id="Hbopop.USA" tvg-language="Español" group-title="Peliculas", HBO Pop HD
-
-http://stream.crlive1.osllacdn.com/hbopophdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="69" tvg-country="USA" tvg-id="Hbomundi.USA" tvg-language="Español" group-title="Peliculas", HBO Mundi HD
-
-http://stream.crlive1.osllacdn.com/hbomundicr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="70" tvg-country="USA" tvg-id="Hboxtreme.USA" tvg-language="Español" group-title="Peliculas", HBO Xtreme HD
-
-http://stream.crlive1.osllacdn.com/hboxtremehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal7.CR" tvg-language="Español" group-title="Costa Rica", Canal 7 HD
-
-http://stream.crlive1.osllacdn.com/teleticahdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="Canal6.CR" tvg-language="Español" group-title="Costa Rica", Canal 6 HD
-
-http://stream.crlive1.osllacdn.com/canal6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="11" tvg-country="CR" tvg-id="Canal11.CR" tvg-language="Español" group-title="Costa Rica", Canal 11 HD
-
-http://stream.crlive1.osllacdn.com/canal11hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="8" tvg-country="CR" tvg-id="Multimedios.CR" tvg-language="Español" group-title="Costa Rica", Multimedios HD
-
-http://stream.crlive1.osllacdn.com/multimedioshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="13" tvg-country="CR" tvg-id="Canal13sinart.CR" tvg-language="Español" group-title="Costa Rica", Canal 13 Sinart HD
-
-http://stream.crlive1.osllacdn.com/canal13sinarthdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="705" tvg-country="MX" tvg-id="Telemundo.MX" tvg-language="Español" group-title="Series", Telemundo HD
-
-http://stream.crlive2.osllacdn.com/telemunpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="113" tvg-country="MX" tvg-id="Lasestrellas.MX" tvg-language="Español" group-title="Series", Las estrellas HD
-
-http://stream.crlive2.osllacdn.com/canaldelasestrellashdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="114" tvg-country="USA" tvg-id="Univision.USA" tvg-language="Español" group-title="Entretenimiento", Univision HD
-
-http://stream.crlive1.osllacdn.com/unicablehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="115" tvg-country="COL" tvg-id="Caracol.COL" tvg-language="Español" group-title="Internacional", Caracol HD
-
-http://stream.crlive2.osllacdn.com/caracolpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://stream.crlive1.osllacdn.com/futvhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="21" tvg-country="CR" tvg-id="Td+.CR" tvg-language="Español" group-title="Deportes", TD+ HD
 
@@ -315,22 +87,6 @@ http://stream.crlive1.osllacdn.com/tdplushdcr/vxfmt=dp/playlist.m3u8?device_prof
 #EXTINF:-1 tvg-chno="22" tvg-country="CR" tvg-id="Td+2.CR" tvg-language="Español" group-title="Deportes", TD+ 2 HD
 
 http://stream.crlive1.osllacdn.com/tdplustwohdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="20" tvg-country="CR" tvg-id="Futv.CR" tvg-language="Español" group-title="Deportes", FUTV HD
-
-http://stream.crlive1.osllacdn.com/futvhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="26" tvg-country="USA" tvg-id="Espn4.USA" tvg-language="Español" group-title="Deportes", ESPN 4 HD
-
-http://stream.crlive2.osllacdn.com/foxsportshdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="28" tvg-country="USA" tvg-id="Foxsport3.USA" tvg-language="Español" group-title="Deportes", Fox Sport 3 HD
-
-http://stream.crlive2.osllacdn.com/foxsports3hdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="27" tvg-country="USA" tvg-id="Espnextra.USA" tvg-language="Español" group-title="Deportes", ESPN EXTRA HD
-
-http://stream.crlive2.osllacdn.com/espnplushdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="23" tvg-country="USA" tvg-id="Espn.USA" tvg-language="Español" group-title="Deportes", ESPN HD
 
@@ -344,212 +100,425 @@ http://stream.crlive2.osllacdn.com/espn2hdpan/vxfmt=dp/playlist.m3u8?device_prof
 
 http://stream.crlive2.osllacdn.com/espn3hdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="30" tvg-country="MX" tvg-id="Tudn.MX" tvg-language="Español" group-title="Deportes", TUDN HD
+#EXTINF:-1 tvg-chno="26" tvg-country="USA" tvg-id="Espn4.USA" tvg-language="Español" group-title="Deportes", ESPN 4 HD
 
-http://stream.crlive1.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://stream.crlive2.osllacdn.com/foxsportshdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="27" tvg-country="USA" tvg-id="Espnextra.USA" tvg-language="Español" group-title="Deportes", ESPN Extra HD
+
+http://stream.crlive2.osllacdn.com/espnplushdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="28" tvg-country="USA" tvg-id="Foxsport3.USA" tvg-language="Español" group-title="Deportes", Fox Sport 3 HD
+
+http://stream.crlive2.osllacdn.com/foxsports3hdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-chno="29" tvg-country="ARG" tvg-id="Tyc.ARG" tvg-language="Español" group-title="Deportes", TyC Sport HD
 
 http://stream.crlive2.osllacdn.com/tycsportspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="35" tvg-country="USA" tvg-id="pxsports.USA" tvg-language="Español" group-title="Deportes", PX SPORTS HD
+#EXTINF:-1 tvg-chno="30" tvg-country="MX" tvg-id="Tudn.MX" tvg-language="Español" group-title="Deportes", TUDN HD
 
-http://stream.crlive1.osllacdn.com/pxsportshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://stream.crlive1.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="31" tvg-country="ARG" tvg-id="Goltv.ARG" tvg-language="Español" group-title="Deportes", Gol TV 
+
+http://stream.crlive2.osllacdn.com/goltvhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="32" tvg-country="USA" tvg-id="Turbo.USA" tvg-language="Español" group-title="Deportes", TURBO 
+
+http://stream.crlive2.osllacdn.com/discturbopan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="33" tvg-country="USA" tvg-id="Nfl.USA" tvg-language="Español" group-title="Deportes", NFL 
+
+http://stream.crlive1.osllacdn.com/nflnetworkcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
 #EXTINF:-1 tvg-chno="34" tvg-country="USA" tvg-id="Golf.USA" tvg-language="Español" group-title="Deportes", Golf HD
 
 http://stream.crlive2.osllacdn.com/golfhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="116" tvg-country="USA" tvg-id="Dk.USA" tvg-language="Español" group-title="Infantiles", DK HD
+#EXTINF:-1 tvg-chno="35" tvg-country="USA" tvg-id="pxsports.USA" tvg-language="Español" group-title="Deportes", PX SPORTS HD
 
-http://stream.crlive2.osllacdn.com/dsckidshdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://stream.crlive1.osllacdn.com/pxsportshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="117" tvg-country="USA" tvg-id="Cartoon.USA" tvg-language="Español" group-title="Infantiles", Cartoon Network HD
+#EXTINF:-1 tvg-chno="36" tvg-country="MX" tvg-id="Distritocomedia.MX" tvg-language="Español" group-title="Entretenimiento", Distrito Comedia 
 
-http://stream.crlive1.osllacdn.com/cartoonnetworkhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://stream.crlive1.osllacdn.com/distritocomediacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="118" tvg-country="USA" tvg-id="Nickelodeon.USA" tvg-language="Español" group-title="Infantiles", Nickelodeon HD
-
-http://stream.crlive1.osllacdn.com/nickelodeonhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="119" tvg-country="USA" tvg-id="Cartoonito.USA" tvg-language="Español" group-title="Infantiles", Cartoonito HD
-
-http://stream.crlive1.osllacdn.com/boomeranghdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="120" tvg-country="USA" tvg-id="Nickjr.USA" tvg-language="Español" group-title="Infantiles", Nick JR HD
-
-http://stream.crlive1.osllacdn.com/nickjrhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="71" tvg-country="USA" tvg-id="Golden.USA" tvg-language="Español" group-title="Peliculas", Golden HD
-
-http://stream.crlive1.osllacdn.com/goldenhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="76" tvg-country="USA" tvg-id="Cinemax.USA" tvg-language="Español" group-title="Peliculas", Cinemax HD
-
-http://stream.crlive2.osllacdn.com/cinemaxhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="77" tvg-country="USA" tvg-id="Universal.USA" tvg-language="Español" group-title="Peliculas", Universal HD
-
-http://stream.crlive2.osllacdn.com/universalhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="78" tvg-country="USA" tvg-id="Studiouniversal.USA" tvg-language="Español" group-title="Peliculas", Studio Universal HD
-
-http://stream.crlive1.osllacdn.com/studiouniversalhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="79" tvg-country="USA" tvg-id="Space.USA" tvg-language="Español" group-title="Peliculas", Space HD
-
-http://stream.crlive2.osllacdn.com/spacehdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="58" tvg-country="USA" tvg-id="Tnt.USA" tvg-language="Español" group-title="Peliculas", TNT HD
-
-http://stream.crlive2.osllacdn.com/tnthdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="121" tvg-country="MX" tvg-id="Dpelicula.MX" tvg-language="Español" group-title="Peliculas", DPelicula HD
-
-http://stream.crlive1.osllacdn.com/depeliculahdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="56" tvg-country="USA" tvg-id="A&e.USA" tvg-language="Español" group-title="Peliculas", A&E HD
-
-http://stream.crlive2.osllacdn.com/aehdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="57" tvg-country="USA" tvg-id="Axn.USA" tvg-language="Español" group-title="Peliculas", AXN HD
-
-http://stream.crlive2.osllacdn.com/axnhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="54" tvg-country="USA" tvg-id="Sonymovies.USA" tvg-language="Español" group-title="Peliculas", Sony Movies HD
-
-http://stream.crlive1.osllacdn.com/sonymovieshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="41" tvg-country="USA" tvg-id="Id.USA" tvg-language="Español" group-title="Documentales", ID HD
-
-http://stream.crlive2.osllacdn.com/dscidhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="42" tvg-country="USA" tvg-id="Tntseries.USA" tvg-language="Español" group-title="Series", TNT Series HD
-
-http://stream.crlive2.osllacdn.com/tntserieshdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="52" tvg-country="USA" tvg-id="Warner.USA" tvg-language="Español e Ingles" group-title="Peliculas", Warner HD 
-
-http://stream.crlive2.osllacdn.com/warnerhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="53" tvg-country="USA" tvg-id="Sony.USA" tvg-language="Español e Ingles" group-title="Peliculas", Sony HD 
-
-http://stream.crlive2.osllacdn.com/sonyhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="770" tvg-country="USA" tvg-id="E.USA" tvg-language="Español" group-title="Entretenimiento", E HD
-
-http://stream.crlive1.osllacdn.com/eentertainmenthdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="771" tvg-country="USA" tvg-id="Holatv.USA" tvg-language="Español" group-title="Entretenimiento", Hola TV HD
-
-http://stream.crlive2.osllacdn.com/holahdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="55" tvg-country="USA" tvg-id="Lifetime.USA" tvg-language="Español" group-title="Peliculas", Lifetime HD
-
-http://stream.crlive1.osllacdn.com/lifetimehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="51" tvg-country="USA" tvg-id="H&h.USA" tvg-language="Español" group-title="Documentales", H&H HD
-
-http://stream.crlive2.osllacdn.com/dschhhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="50" tvg-country="USA" tvg-id="Tlc.USA" tvg-language="Español" group-title="Documentales", TLC HD
-
-http://stream.crlive1.osllacdn.com/tlchdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="38" tvg-country="USA" tvg-id="Foodntlat.USA" tvg-language="Español" group-title="USA", Food Network Latino HD
-
-http://stream.crlive2.osllacdn.com/foodnetworklathdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="37" tvg-country="USA" tvg-id="FoodNetwork.USA" tvg-language="Ingles" group-title="USA", Food Network USA HD
+#EXTINF:-1 tvg-chno="37" tvg-country="USA" tvg-id="FoodNetwork.USA" tvg-language="Ingles" group-title="Entretenimiento", Food Network USA HD
 
 http://stream.crlive2.osllacdn.com/foodnetworkhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="45" tvg-country="USA" tvg-id="Discovery.USA" tvg-language="Español" group-title="Documentales", Discovery HD
+#EXTINF:-1 tvg-chno="38" tvg-country="USA" tvg-id="Foodntlat.USA" tvg-language="Español" group-title="Entretenimiento", Food Network Latino HD
 
-http://stream.crlive2.osllacdn.com/dschdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://stream.crlive2.osllacdn.com/foodnetworklathdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="49" tvg-country="USA" tvg-id="Animalplanet.USA" tvg-language="Español" group-title="Documentales", Animal Planet HD
+#EXTINF:-1 tvg-chno="39" tvg-country="USA" tvg-id="Hgtvlat.USA" tvg-language="Español" group-title="Entretenimiento", HGTV USA 
 
-http://stream.crlive2.osllacdn.com/animalplanethdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://stream.crlive2.osllacdn.com/hgtvhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
 
-#EXTINF:-1 tvg-chno="43" tvg-country="USA" tvg-id="History.USA" tvg-language="Español" group-title="Documentales", History HD
-
-http://stream.crlive2.osllacdn.com/historyhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="44" tvg-country="USA" tvg-id="History2.USA" tvg-language="Español" group-title="Documentales", History 2 HD
-
-http://stream.crlive1.osllacdn.com/h2hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="40" tvg-country="USA" tvg-id="Hgtvlat.USA" tvg-language="Español" group-title="USA", HGTV Latino HD
+#EXTINF:-1 tvg-chno="40" tvg-country="USA" tvg-id="Hgtvlat.USA" tvg-language="Español" group-title="Entretenimiento", HGTV Latino HD
 
 http://stream.crlive1.osllacdn.com/disccivilizationhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="46" tvg-country="USA" tvg-id="Dscience.USA" tvg-language="Español" group-title="Documentales", D Science HD
+#EXTINF:-1 tvg-chno="41" tvg-country="USA" tvg-id="Id.USA" tvg-language="Español" group-title="Entretenimiento", ID HD
+
+http://stream.crlive2.osllacdn.com/dscidhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="42" tvg-country="USA" tvg-id="Tntseries.USA" tvg-language="Español" group-title="Entretenimiento", TNT Series HD
+
+http://stream.crlive2.osllacdn.com/tntserieshdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="43" tvg-country="USA" tvg-id="History.USA" tvg-language="Español" group-title="Entretenimiento", History HD
+
+http://stream.crlive2.osllacdn.com/historyhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="44" tvg-country="USA" tvg-id="History2.USA" tvg-language="Español" group-title="Entretenimiento", History 2 HD
+
+http://stream.crlive1.osllacdn.com/h2hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="45" tvg-country="USA" tvg-id="Discovery.USA" tvg-language="Español" group-title="Entretenimiento", Discovery HD
+
+http://stream.crlive2.osllacdn.com/dschdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="46" tvg-country="USA" tvg-id="Dscience.USA" tvg-language="Español" group-title="Entretenimiento", D Science HD
 
 http://stream.crlive1.osllacdn.com/discsciencehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="47" tvg-country="USA" tvg-id="Dworld.USA" tvg-language="Español" group-title="Documentales", D World HD
+#EXTINF:-1 tvg-chno="47" tvg-country="USA" tvg-id="Dworld.USA" tvg-language="Español" group-title="Entretenimiento", D World HD
 
 http://stream.crlive2.osllacdn.com/dscworldhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="48" tvg-country="USA" tvg-id="Dtheater.USA" tvg-language="Español" group-title="Documentales", D Theater HD
+#EXTINF:-1 tvg-chno="48" tvg-country="USA" tvg-id="Dtheater.USA" tvg-language="Español" group-title="Entretenimiento", D Theater HD
 
 http://stream.crlive2.osllacdn.com/dsctheaterhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="80" tvg-country="USA" tvg-id="Cnnesp.USA" tvg-language="Español" group-title="Noticias", CNN HD
+#EXTINF:-1 tvg-chno="49" tvg-country="USA" tvg-id="Animalplanet.USA" tvg-language="Español" group-title="Entretenimiento", Animal Planet HD
+
+http://stream.crlive2.osllacdn.com/animalplanethdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="50" tvg-country="USA" tvg-id="Tlc.USA" tvg-language="Español" group-title="Entretenimiento", TLC HD
+
+http://stream.crlive1.osllacdn.com/tlchdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="51" tvg-country="USA" tvg-id="H&h.USA" tvg-language="Español" group-title="Entretenimiento", H&H HD
+
+http://stream.crlive2.osllacdn.com/dschhhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="55" tvg-country="USA" tvg-id="Lifetime.USA" tvg-language="Español" group-title="Entretenimiento", Lifetime HD
+
+http://stream.crlive1.osllacdn.com/lifetimehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="56" tvg-country="USA" tvg-id="A&e.USA" tvg-language="Español" group-title="Entretenimiento", A&E HD
+
+http://stream.crlive2.osllacdn.com/aehdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="57" tvg-country="USA" tvg-id="Axn.USA" tvg-language="Español" group-title="Entretenimiento", AXN HD
+
+http://stream.crlive2.osllacdn.com/axnhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="58" tvg-country="USA" tvg-id="Glitz.USA" tvg-language="Español" group-title="Entretenimiento", Glitz 
+
+http://stream.crlive2.osllacdn.com/glitzpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="59" tvg-country="USA" tvg-id="Trutv.USA" tvg-language="Español" group-title="Entretenimiento", Trutv
+
+http://stream.crlive1.osllacdn.com/trutvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="60" tvg-country="USA" tvg-id="Isat.USA" tvg-language="Español" group-title="Entretenimiento", i Sat 
+
+http://stream.crlive2.osllacdn.com/isatpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="61" tvg-country="USA" tvg-id="Syfy.USA" tvg-language="Español" group-title="Entretenimiento", SYFY 
+
+http://stream.crlive2.osllacdn.com/syfypan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="62" tvg-country="USA" tvg-id="E.USA" tvg-language="Español" group-title="Entretenimiento", E HD
+
+http://stream.crlive1.osllacdn.com/eentertainmenthdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="63" tvg-country="USA" tvg-id="Holatv.USA" tvg-language="Español" group-title="Entretenimiento", Hola TV HD
+
+http://stream.crlive2.osllacdn.com/holahdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="64" tvg-country="USA" tvg-id="Tntnovelas.USA" tvg-language="Español" group-title="Entretenimiento", TNT Novelas HD
+
+http://stream.crlive1.osllacdn.com/tntnovelascr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="65" tvg-country="USA" tvg-id="Tnt.USA" tvg-language="Español" group-title="Peliculas", TNT HD
+
+http://stream.crlive2.osllacdn.com/tnthdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="66" tvg-country="USA" tvg-id="Warner.USA" tvg-language="Español e Ingles" group-title="Peliculas", Warner HD 
+
+http://stream.crlive2.osllacdn.com/warnerhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="67" tvg-country="USA" tvg-id="Sony.USA" tvg-language="Español e Ingles" group-title="Peliculas", Sony HD 
+
+http://stream.crlive2.osllacdn.com/sonyhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="68" tvg-country="USA" tvg-id="Sonymovies.USA" tvg-language="Español" group-title="Peliculas", Sony Movies HD
+
+http://stream.crlive1.osllacdn.com/sonymovieshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="69" tvg-country="USA" tvg-id="Hbolat.USA" tvg-language="Español" group-title="Peliculas", HBO HD
+
+http://stream.crlive1.osllacdn.com/hbohdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="70" tvg-country="USA" tvg-id="Hbo2.USA" tvg-language="Español" group-title="Peliculas", HBO 2 HD
+
+http://stream.crlive1.osllacdn.com/hbo2hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="71" tvg-country="USA" tvg-id="Hbofamily.USA" tvg-language="Español" group-title="Peliculas", HBO Family HD
+
+http://stream.crlive1.osllacdn.com/hbofamilyhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="72" tvg-country="USA" tvg-id="Hbosignature.USA" tvg-language="Español" group-title="Peliculas", HBO Signature HD
+
+http://stream.crlive1.osllacdn.com/hbosignaturehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="73" tvg-country="USA" tvg-id="Hboplus.USA" tvg-language="Español" group-title="Peliculas", HBO+ HD
+
+http://stream.crlive1.osllacdn.com/hboplusestehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="74" tvg-country="USA" tvg-id="Hbopop.USA" tvg-language="Español" group-title="Peliculas", HBO Pop HD
+
+http://stream.crlive1.osllacdn.com/hbopophdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="75" tvg-country="USA" tvg-id="Hbomundi.USA" tvg-language="Español" group-title="Peliculas", HBO Mundi HD
+
+http://stream.crlive1.osllacdn.com/hbomundicr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="76" tvg-country="USA" tvg-id="Hboxtreme.USA" tvg-language="Español" group-title="Peliculas", HBO Xtreme HD
+
+http://stream.crlive1.osllacdn.com/hboxtremehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="77" tvg-country="USA" tvg-id="Golden.USA" tvg-language="Español" group-title="Peliculas", Golden HD
+
+http://stream.crlive1.osllacdn.com/goldenhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="78" tvg-country="USA" tvg-id="GoldenPremier.USA" tvg-language="Español e Ingles" group-title="Peliculas", Golden Premier HD
+
+http://stream.crlive1.osllacdn.com/goldenpremierhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="79" tvg-country="USA" tvg-id="Edge.USA" tvg-language="Español" group-title="Peliculas", EDGE
+
+http://stream.crlive1.osllacdn.com/goldenedgecr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="80" tvg-country="USA" tvg-id="Paramount.USA" tvg-language="Español" group-title="Peliculas", Paramount
+
+http://stream.crlive2.osllacdn.com/paramounthdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="81" tvg-country="USA" tvg-id="Tcm.USA" tvg-language="Español" group-title="Peliculas", TCM 
+
+http://stream.crlive2.osllacdn.com/tcmpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="82" tvg-country="USA" tvg-id="Cinemax.USA" tvg-language="Español" group-title="Peliculas", Cinemax HD
+
+http://stream.crlive1.osllacdn.com/cinemaxhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="83" tvg-country="USA" tvg-id="Universal.USA" tvg-language="Español" group-title="Peliculas", Universal HD
+
+http://stream.crlive2.osllacdn.com/universalhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="84" tvg-country="USA" tvg-id="Studiouniversal.USA" tvg-language="Español" group-title="Peliculas", Studio Universal HD
+
+http://stream.crlive1.osllacdn.com/studiouniversalhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="85" tvg-country="USA" tvg-id="Space.USA" tvg-language="Español" group-title="Peliculas", Space HD
+
+http://stream.crlive2.osllacdn.com/spacehdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="86" tvg-country="MX" tvg-id="Dpelicula.MX" tvg-language="Español" group-title="Peliculas", DPelicula HD
+
+http://stream.crlive1.osllacdn.com/depeliculahdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="87" tvg-country="USA" tvg-id="Cnnesp.USA" tvg-language="Español" group-title="Noticias", CNN Latino
+
+http://stream.crlive2.osllacdn.com/cnnesppan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="88" tvg-country="USA" tvg-id="Cnnesp.USA" tvg-language="Español" group-title="Noticias", CNN HD
 
 http://stream.crlive2.osllacdn.com/cnnhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="810" tvg-country="MX" tvg-id="Telehitmusica.MX" tvg-language="Español" group-title="Musica", Telehit Musica HD
+#EXTINF:-1 tvg-chno="89" tvg-country="USA" tvg-id="Cnnint.USA" tvg-language="Ingles" group-title="Noticias", CNN International 
+
+http://stream.crlive2.osllacdn.com/cnnintpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="90" tvg-country="USA" tvg-id="Foxnews.USA" tvg-language="Ingles" group-title="Noticias", Fox News 
+
+http://stream.crlive2.osllacdn.com/foxnewspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="91" tvg-country="USA" tvg-id="Hln.USA" tvg-language="Ingles" group-title="Noticias", HLN 
+
+http://stream.crlive2.osllacdn.com/hlnpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="92" tvg-country="USA" tvg-id="Bloom.USA" tvg-language="Ingles" group-title="Noticias", Bloom 
+
+http://stream.crlive2.osllacdn.com/bloombergpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="93" tvg-country="USA" tvg-id="Cnbc.USA" tvg-language="Ingles" group-title="Noticias", CNBC 
+
+http://stream.crlive1.osllacdn.com/cnbccr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="94" tvg-country="USA" tvg-id="7news.USA" tvg-language="Ingles" group-title="Noticias", 7 News
+
+http://stream.crlive1.osllacdn.com/7newscr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="95" tvg-country="USA" tvg-id="Wgn9.USA" tvg-language="Ingles" group-title="Noticias", WGN9 
+
+http://stream.crlive1.osllacdn.com/wgncr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="96" tvg-country="USA" tvg-id="Bbcnews.USA" tvg-language="Ingles" group-title="Noticias", BBC News 
+
+http://stream.crlive2.osllacdn.com/bbcworldhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="97" tvg-country="ESP" tvg-id="Tve.ESP" tvg-language="Español" group-title="Internacional", TVE 
+
+http://stream.crlive1.osllacdn.com/tvecr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="98" tvg-country="ESP" tvg-id="Antena3.ESP" tvg-language="Español" group-title="Internacional", Antena 3 
+
+http://stream.crlive2.osllacdn.com/antena3pan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="99" tvg-country="MX" tvg-id="Aztecaint.MX" tvg-language="Español" group-title="Internacional", Azteca Int S
+
+http://stream.crlive2.osllacdn.com/azmunpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="100" tvg-country="COL" tvg-id="Rcn.COL" tvg-language="Español" group-title="Internacional", RCN 
+
+http://stream.crlive2.osllacdn.com/nuestratelpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="101" tvg-country="VEN" tvg-id="Golboint.VEN" tvg-language="Español" group-title="Internacional", Globo Int 
+
+http://stream.crlive1.osllacdn.com/globovisioncr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="102" tvg-country="ARG" tvg-id="Eltrece.ARG" tvg-language="Español" group-title="Internacional", El Trece 
+
+http://stream.crlive2.osllacdn.com/canal13pan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="103" tvg-country="COL" tvg-id="Caracol.COL" tvg-language="Español" group-title="Internacional", Caracol HD
+
+http://stream.crlive2.osllacdn.com/caracolpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="104" tvg-country="ARG" tvg-id="TN.ARG" tvg-language="Español" group-title="Internacional", TN 
+
+http://stream.crlive1.osllacdn.com/tncr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="105" tvg-country="ARG" tvg-id="Telefe.ARG" tvg-language="Español" group-title="Internacional", Telefe 
+
+http://stream.crlive2.osllacdn.com/telefepan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="106" tvg-country="CHI" tvg-id="Tvchile.CHI" tvg-language="Español" group-title="Internacional", Tv Chile 
+
+http://stream.crlive2.osllacdn.com/tvchilepan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="107" tvg-country="BRA" tvg-id="Tvglobo.BRA" tvg-language="Portugues" group-title="Internacional", TV Globo 
+
+http://stream.crlive1.osllacdn.com/tvglobocr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="108" tvg-country="FRA" tvg-id="TV5monde.COL" tvg-language="Frances" group-title="Internacional", Tv5 Monde 
+
+http://stream.crlive2.osllacdn.com/tv5pan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="109" tvg-country="ITA" tvg-id="Rai.ITA" tvg-language="Español" group-title="Internacional", RAI 
+
+http://stream.crlive2.osllacdn.com/raiitaliapan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="110" tvg-country="GER" tvg-id="Dwesp.GER" tvg-language="Español" group-title="Internacional", DW Latino 
+
+http://stream.crlive2.osllacdn.com/dwpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="111" tvg-country="GER" tvg-id="DW.GER" tvg-language="ALeman" group-title="Internacional", DW 
+
+http://stream.crlive2.osllacdn.com/dwpluspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="112" tvg-country="CHIN" tvg-id="Cctv4.CHIN" tvg-language="Chino" group-title="Internacional", CCTV4 
+
+http://stream.crlive1.osllacdn.com/cctv4cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="113" tvg-country="KOR" tvg-id="Arirang.KOR" tvg-language="Chino" group-title="Internacional", Arirang 
+
+http://stream.crlive2.osllacdn.com/arirangpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="114" tvg-country="JAP" tvg-id="Nhk.JAP" tvg-language="Ingles" group-title="Internacional", NHK 
+
+http://stream.crlive2.osllacdn.com/nhkpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="115" tvg-country="USA" tvg-id="Bet.USA" tvg-language="Ingles" group-title="Internacional", BET 
+
+http://stream.crlive1.osllacdn.com/blackentertainmentcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="116" tvg-country="NIC" tvg-id="Canal10.NIC" tvg-language="Ingles" group-title="Internacional", Canal 10 Nicaragua 
+
+http://stream.crlive1.osllacdn.com/canal10cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="117" tvg-country="MX" tvg-id="Telenovelas.MX" tvg-language="Español" group-title="Internacional", Telenovelas
+
+http://stream.crlive2.osllacdn.com/tlnovelaspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="118" tvg-country="MX" tvg-id="Lasestrellas.MX" tvg-language="Español" group-title="Internacional", Las estrellas HD
+
+http://stream.crlive2.osllacdn.com/canaldelasestrellashdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="119" tvg-country="USA" tvg-id="Univision.USA" tvg-language="Español" group-title="Internacional", Univision HD
+
+http://stream.crlive1.osllacdn.com/unicablehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="120" tvg-country="MX" tvg-id="Telemundo.MX" tvg-language="Español" group-title="Internacional", Telemundo HD
+
+http://stream.crlive2.osllacdn.com/telemunpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="121" tvg-country="MX" tvg-id="Agrotendencia.MX" tvg-language="Español" group-title="Internacional", Agrotendencia
+
+http://stream.crlive2.osllacdn.com/agropan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="122" tvg-country="USA" tvg-id="Bitme.USA" tvg-language="Español" group-title="Infantiles", BITME
+
+http://stream.crlive1.osllacdn.com/bitmecr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="123" tvg-country="USA" tvg-id="Dk.USA" tvg-language="Español" group-title="Infantiles", DK HD
+
+http://stream.crlive2.osllacdn.com/dsckidshdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="124" tvg-country="USA" tvg-id="Cartoon.USA" tvg-language="Español" group-title="Infantiles", Cartoon Network HD
+
+http://stream.crlive1.osllacdn.com/cartoonnetworkhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="125" tvg-country="USA" tvg-id="Nickelodeon.USA" tvg-language="Español" group-title="Infantiles", Nickelodeon HD
+
+http://stream.crlive1.osllacdn.com/nickelodeonhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="126" tvg-country="USA" tvg-id="Cartoonito.USA" tvg-language="Español" group-title="Infantiles", Cartoonito HD
+
+http://stream.crlive1.osllacdn.com/boomeranghdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="127" tvg-country="USA" tvg-id="Nickjr.USA" tvg-language="Español" group-title="Infantiles", Nick JR HD
+
+http://stream.crlive1.osllacdn.com/nickjrhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-chno="128" tvg-country="MX" tvg-id="Htv.MX" tvg-language="Español" group-title="Musica", HTV
+
+http://stream.crlive1.osllacdn.com/htvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="129" tvg-country="MX" tvg-id="Telehit.MX" tvg-language="Español" group-title="Musica", Telehit 
+
+http://stream.crlive2.osllacdn.com/telehitpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
+
+#EXTINF:-1 tvg-chno="130" tvg-country="MX" tvg-id="Telehitmusica.MX" tvg-language="Español" group-title="Musica", Telehit Musica HD
 
 http://stream.crlive1.osllacdn.com/telehithdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="811" tvg-country="USA" tvg-id="Mtv.USA" tvg-language="Español" group-title="Musica", MTV HD
+#EXTINF:-1 tvg-chno="131" tvg-country="USA" tvg-id="Mtv.USA" tvg-language="Español" group-title="Musica", MTV HD
 
 http://stream.crlive1.osllacdn.com/mtvhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="812" tvg-country="USA" tvg-id="Mtv00.USA" tvg-language="Ingles" group-title="Musica", MTV 00s HD
+#EXTINF:-1 tvg-chno="132" tvg-country="USA" tvg-id="Mtv80s.USA" tvg-language="Español" group-title="Musica", MTV 80s 
+
+http://stream.crlive1.osllacdn.com/vh1claasiccr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+
+#EXTINF:-1 tvg-chno="133" tvg-country="USA" tvg-id="Mtv00.USA" tvg-language="Ingles" group-title="Musica", MTV 00s HD
 
 http://stream.crlive1.osllacdn.com/vh1hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="3" tvg-country="CR" tvg-id="Ticavision.CR" tvg-language="Español" group-title="Costa Rica", Ticavision HD
-
-http://stream.crlive1.osllacdn.com/ticavisionhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="17" tvg-country="CR" tvg-id="Telered.CR" tvg-language="Español" group-title="Costa Rica", Telered HD
-
-http://stream.crlive1.osllacdn.com/teleredhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-chno="18" tvg-country="CR" tvg-id="Teleunotv.CR" tvg-language="Español" group-title="Costa Rica", Tele Uno TV HD
-
-http://stream.crlive1.osllacdn.com/teleunohdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
