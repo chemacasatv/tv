@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="gatotv.com">
+  <channels>
+    <channel update="i" site="gatotv.com" site_id="hola_tv" xmltv_id="Canal ¡Hola! TV">Canal ¡Hola! TV</channel>
+    <channel update="i" site="gatotv.com" site_id="11_de_costa_rica" xmltv_id="Canal 11 de Costa Rica">Canal 11 de Costa Rica</channel>
+     <channel update="i" site="gatotv.com" site_id="13_de_costa_rica" xmltv_id="Canal 13 de Costa Rica">Canal 13 de Costa Rica</channel>
+     <channel update="i" site="gatotv.com" site_id="de_las_estrellas_mexico" xmltv_id="Canal 2 de México (Canal de las Estrellas - XEW) ">Canal 2 de México (Canal de las Estrellas - XEW) </channel>
+    <channel update="i" site="gatotv.com" site_id="24_horas_tve" xmltv_id="Canal 24 Horas (TVE)">Canal 24 Horas (TVE)</channel>
+            <channel update="i" site="gatotv.com" site_id="4_de_costa_rica_repretel" xmltv_id="Canal 4 de Costa Rica (Repretel)">Canal 4 de Costa Rica (Repretel)</channel>            <channel update="i" site="gatotv.com" site_id="repretel" xmltv_id="Canal 6 Repretel (Costa Rica)">Canal 6 Repretel (Costa Rica)</channel>
+        <channel update="i" site="gatotv.com" site_id="teletica" xmltv_id="Canal 7 de Teletica (Costa Rica)">Canal 7 de Teletica (Costa Rica)</channel>
+            <channel update="i" site="gatotv.com" site_id="a_y_e_hd" xmltv_id="Canal A&amp;E HD Latinoamérica">Canal A&amp;E HD Latinoamérica</channel>
+</site>
