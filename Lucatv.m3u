@@ -12,7 +12,7 @@ http://stream.crlive1.osllacdn.com/canal2cr/vxfmt=dp/playlist.m3u8?device_profil
 
 http://stream.crlive1.osllacdn.com/asambleacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD    
       
-#EXTINF:-1 tvg-chno="4" tvg-country="CR" tvg-id="Canal4.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 4  
+#EXTINF:-1 tvg-chno="4" tvg-country="CR" tvg-id="4_de_costa_rica_repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 4  
 
 http://stream.crlive1.osllacdn.com/canal4cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
@@ -20,11 +20,11 @@ http://stream.crlive1.osllacdn.com/canal4cr/vxfmt=dp/playlist.m3u8?device_profil
 
 http://stream.crlive1.osllacdn.com/vmlatinocr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="Canal6.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Repretel_6.png/revision/latest/scale-to-width-down/200?cb=20201015011644&path-prefix=es", Canal 6 HD
+#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Repretel_6.png/revision/latest/scale-to-width-down/200?cb=20201015011644&path-prefix=es", Canal 6 HD
 
 http://stream.crlive1.osllacdn.com/canal6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal7.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Teletica_%28Canal_7_2015_con_eslogan%29.svg/revision/latest/scale-to-width-down/200?cb=20211222005729&path-prefix=es", Canal 7 HD
+#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal 7 de Teletica (Costa Rica)" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Teletica_%28Canal_7_2015_con_eslogan%29.svg/revision/latest/scale-to-width-down/200?cb=20211222005729&path-prefix=es", Canal 7 HD
 
 http://stream.crlive1.osllacdn.com/teleticahdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -40,7 +40,7 @@ http://stream.crlive1.osllacdn.com/canal9cr/vxfmt=dp/playlist.m3u8?device_profil
 
 http://stream.crlive1.osllacdn.com/xpertvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="11" tvg-country="CR" tvg-id="Canal11.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 11 HD
+#EXTINF:-1 tvg-chno="11" tvg-country="CR" tvg-id="11_de_costa_rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 11 HD
 
 http://stream.crlive1.osllacdn.com/canal11hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -48,7 +48,7 @@ http://stream.crlive1.osllacdn.com/canal11hdcr/vxfmt=dp/playlist.m3u8?device_pro
 
 http://stream.crlive1.osllacdn.com/opacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="13" tvg-country="CR" tvg-id="Canal13sinart.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 13 Sinart HD
+#EXTINF:-1 tvg-chno="13" tvg-country="CR" tvg-id="Canal 13 de Costa Rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 13 Sinart HD
 
 http://stream.crlive1.osllacdn.com/canal13sinarthdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -208,7 +208,7 @@ http://stream.crlive2.osllacdn.com/dschhhdpan/vxfmt=dp/playlist.m3u8?device_prof
 
 http://stream.crlive1.osllacdn.com/lifetimehdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="56" tvg-country="USA" tvg-id="A&e.USA" tvg-language="Español" group-title="Entretenimiento" tvg-logo="", A&E HD
+#EXTINF:-1 tvg-chno="56" tvg-country="USA" tvg-id="a_y_e_hd" tvg-language="Español" group-title="Entretenimiento" tvg-logo="", A&E HD
 
 http://stream.crlive2.osllacdn.com/aehdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -236,7 +236,7 @@ http://stream.crlive2.osllacdn.com/syfypan/vxfmt=dp/playlist.m3u8?device_profile
 
 http://stream.crlive1.osllacdn.com/eentertainmenthdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="63" tvg-country="USA" tvg-id="Holatv.USA" tvg-language="Español" group-title="Entretenimiento" tvg-logo="", Hola TV HD
+#EXTINF:-1 tvg-chno="63" tvg-country="USA" tvg-id="Canal ¡Hola! TV" tvg-language="Español" group-title="Entretenimiento" tvg-logo="", Hola TV HD
 
 http://stream.crlive2.osllacdn.com/holahdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -372,7 +372,7 @@ http://stream.crlive1.osllacdn.com/wgncr/vxfmt=dp/playlist.m3u8?device_profile=S
 
 http://stream.crlive2.osllacdn.com/bbcworldhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
 
-#EXTINF:-1 tvg-chno="97" tvg-country="ESP" tvg-id="Tve.ESP" tvg-language="Español" group-title="Internacional" tvg-logo="", TVE 
+#EXTINF:-1 tvg-chno="97" tvg-country="ESP" tvg-id="Canal 24 Horas (TVE)" tvg-language="Español" group-title="Internacional" tvg-logo="", TVE 
 
 http://stream.crlive1.osllacdn.com/tvecr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
@@ -456,7 +456,7 @@ http://stream.crlive1.osllacdn.com/canal10cr/vxfmt=dp/playlist.m3u8?device_profi
 
 http://stream.crlive2.osllacdn.com/tlnovelaspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="118" tvg-country="MX" tvg-id="Lasestrellas.MX" tvg-language="Español" group-title="Internacional" tvg-logo="", Las estrellas HD
+#EXTINF:-1 tvg-chno="118" tvg-country="MX" tvg-id="de_las_estrellas_mexico" tvg-language="Español" group-title="Internacional" tvg-logo="", Las estrellas HD
 
 http://stream.crlive2.osllacdn.com/canaldelasestrellashdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
