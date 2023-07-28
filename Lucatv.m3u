@@ -1,142 +1,142 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-country="CR" tvg-id="Canal1.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="data:image/jpeg;base64,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", Canal 1 HD 
+#EXTINF:-1 tvg-chno="1" tvg-country="CR" tvg-id="Canal1.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal1.jpg", Canal 1 HD 
 
 http://stream.crlive1.osllacdn.com/canal1hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="2" tvg-country="CR" tvg-id="Canal2.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 2  
+#EXTINF:-1 tvg-chno="2" tvg-country="CR" tvg-id="Canal2.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/CDR_2_2013.png/revision/latest/scale-to-width-down/200?cb=20201015004843&path-prefix=es", Canal 2  
 
 http://stream.crlive1.osllacdn.com/canal2cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="3" tvg-country="CR" tvg-id="Asamblea.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Asamblea
+#EXTINF:-1 tvg-chno="3" tvg-country="CR" tvg-id="Asamblea.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/asamblealegislativa.jpg", Asamblea
 
 http://stream.crlive1.osllacdn.com/asambleacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD    
       
-#EXTINF:-1 tvg-chno="4" tvg-country="CR" tvg-id="4_de_costa_rica_repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 4  
+#EXTINF:-1 tvg-chno="4" tvg-country="CR" tvg-id="4_de_costa_rica_repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Repretel_4.png/revision/latest/scale-to-width-down/200?cb=20201015010235&path-prefix=es", Canal 4  
 
 http://stream.crlive1.osllacdn.com/canal4cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="5" tvg-country="CR" tvg-id="Vmlatino.CR" tvg-language="Español" group-title="Musica" tvg-logo="", VM Latino 
+#EXTINF:-1 tvg-chno="5" tvg-country="CR" tvg-id="Vmlatino.CR" tvg-language="Español" group-title="Musica" tvg-logo="https://libertycr.com/documents/297305827/297420738/vmlatino.jpg", VM Latino 
 
 http://stream.crlive1.osllacdn.com/vmlatinocr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Repretel_6.png/revision/latest/scale-to-width-down/200?cb=20201015011644&path-prefix=es", repretel
+#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Repretel_6.png/revision/latest/scale-to-width-down/200?cb=20201015011644&path-prefix=es", Canal 6 Repretel
 
 http://stream.crlive1.osllacdn.com/canal6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal 7 de Teletica (Costa Rica)" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Teletica_%28Canal_7_2015_con_eslogan%29.svg/revision/latest/scale-to-width-down/200?cb=20211222005729&path-prefix=es", Canal 7 de Teletica (Costa Rica)
+#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal 7 de Teletica (Costa Rica)" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Teletica_%28Canal_7_2015_con_eslogan%29.svg/revision/latest/scale-to-width-down/200?cb=20211222005729&path-prefix=es", Canal 7 de Teletica
 
 http://stream.crlive1.osllacdn.com/teleticahdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="8" tvg-country="CR" tvg-id="Multimedios.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Multimedios HD
+#EXTINF:-1 tvg-chno="8" tvg-country="CR" tvg-id="Multimedios.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20211002192232&path-prefix=es", Multimedios HD
 
 http://stream.crlive1.osllacdn.com/multimedioshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="9" tvg-country="CR" tvg-id="Canal9.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 9
+#EXTINF:-1 tvg-chno="9" tvg-country="CR" tvg-id="Canal9.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Canal9CR2019.png/revision/latest/scale-to-width-down/200?cb=20210527010738&path-prefix=es", Canal 9
 
 http://stream.crlive1.osllacdn.com/canal9cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="10" tvg-country="CR" tvg-id="Xpertv.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Xpertv 
+#EXTINF:-1 tvg-chno="10" tvg-country="CR" tvg-id="Xpertv.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/XperTV2015.png/revision/latest/scale-to-width-down/300?cb=20190918201756", Xpertv 
 
 http://stream.crlive1.osllacdn.com/xpertvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="11" tvg-country="CR" tvg-id="11_de_costa_rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 11 HD
+#EXTINF:-1 tvg-chno="11" tvg-country="CR" tvg-id="11_de_costa_rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Repretel_11.png/revision/latest/scale-to-width-down/200?cb=20201015012807&path-prefix=es", Canal 11 HD
 
 http://stream.crlive1.osllacdn.com/canal11hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="12" tvg-country="CR" tvg-id="Opa.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", OPA HD
+#EXTINF:-1 tvg-chno="12" tvg-country="CR" tvg-id="Opa.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canalopa!.jpg", OPA HD
 
 http://stream.crlive1.osllacdn.com/opacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="13" tvg-country="CR" tvg-id="Canal 13 de Costa Rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 13 Sinart HD
+#EXTINF:-1 tvg-chno="13" tvg-country="CR" tvg-id="Canal 13 de Costa Rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal13CR2022.png/revision/latest/scale-to-width-down/200?cb=20220810025758", Canal 13 Sinart HD
 
 http://stream.crlive1.osllacdn.com/canal13sinarthdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="14" tvg-country="CR" tvg-id="Extratv42.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Extra tv 42 
+#EXTINF:-1 tvg-chno="14" tvg-country="CR" tvg-id="Extratv42.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png", Extra tv 42 
 
 http://stream.crlive1.osllacdn.com/extratv42hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
 
-#EXTINF:-1 tvg-chno="15" tvg-country="CR" tvg-id="Canalucr.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal UCR 
+#EXTINF:-1 tvg-chno="15" tvg-country="CR" tvg-id="Canalucr.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Canal_15_UCR_Logo_%282021%29.png/revision/latest/scale-to-width-down/180?cb=20210701151517", Canal UCR 
 
 http://stream.crlive1.osllacdn.com/canalucr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="16" tvg-country="CR" tvg-id="Enlace.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Enlace
+#EXTINF:-1 tvg-chno="16" tvg-country="CR" tvg-id="Enlace.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png", Enlace
 
 http://stream.crlive2.osllacdn.com/enlacepan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="17" tvg-country="CR" tvg-id="Telered.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Telered HD
+#EXTINF:-1 tvg-chno="17" tvg-country="CR" tvg-id="Telered.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/telered.jpg", Telered HD
 
 http://stream.crlive1.osllacdn.com/teleredhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="18" tvg-country="CR" tvg-id="Teleunotv.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Tele Uno TV HD
+#EXTINF:-1 tvg-chno="18" tvg-country="CR" tvg-id="Teleunotv.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/teleunotv.jpg", Tele Uno TV HD
 
 http://stream.crlive1.osllacdn.com/teleunohdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="19" tvg-country="CR" tvg-id="Canal54.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="", Canal 54
+#EXTINF:-1 tvg-chno="19" tvg-country="CR" tvg-id="Canal54.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/tvplus.jpg", Canal 54
 
 http://stream.crlive1.osllacdn.com/canal54cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="20" tvg-country="CR" tvg-id="Futv.CR" tvg-language="Español" group-title="Deportes" tvg-logo="", FUTV HD
+#EXTINF:-1 tvg-chno="20" tvg-country="CR" tvg-id="Futv.CR" tvg-language="Español" group-title="Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fut_tv-mediano.png", FUTV HD
 
 http://stream.crlive1.osllacdn.com/futvhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="21" tvg-country="CR" tvg-id="Td+.CR" tvg-language="Español" group-title="Deportes" tvg-logo="", TD+ HD
+#EXTINF:-1 tvg-chno="21" tvg-country="CR" tvg-id="Td+.CR" tvg-language="Español" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TDMasLogo22.png/225px-TDMasLogo22.png", TD+ HD
 
 http://stream.crlive1.osllacdn.com/tdplushdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="22" tvg-country="CR" tvg-id="Td+2.CR" tvg-language="Español" group-title="Deportes" tvg-logo="", TD+ 2 HD
+#EXTINF:-1 tvg-chno="22" tvg-country="CR" tvg-id="Td+2.CR" tvg-language="Español" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/768px-TD_M%C3%A1s_2_Logo.svg.png?20220114130154", TD+ 2 HD
 
 http://stream.crlive1.osllacdn.com/tdplustwohdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="23" tvg-country="USA" tvg-id="Espn.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", ESPN HD
+#EXTINF:-1 tvg-chno="23" tvg-country="USA" tvg-id="Espn.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo-650x366.png", ESPN HD
 
 http://stream.crlive2.osllacdn.com/espnhdpan_hevc/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="24" tvg-country="USA" tvg-id="Espn2.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", ESPN 2 HD
+#EXTINF:-1 tvg-chno="24" tvg-country="USA" tvg-id="Espn2.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png?20160127215859", ESPN 2 HD
 
 http://stream.crlive2.osllacdn.com/espn2hdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="25" tvg-country="USA" tvg-id="Espn3.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", ESPN 3 HD
+#EXTINF:-1 tvg-chno="25" tvg-country="USA" tvg-id="Espn3.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest/scale-to-width-down/300?cb=20200211201137&path-prefix=es", ESPN 3 HD
 
 http://stream.crlive2.osllacdn.com/espn3hdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="26" tvg-country="USA" tvg-id="Espn4.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", ESPN 4 HD
+#EXTINF:-1 tvg-chno="26" tvg-country="USA" tvg-id="Espn4.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es", ESPN 4 HD
 
 http://stream.crlive2.osllacdn.com/foxsportshdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="27" tvg-country="USA" tvg-id="Espnextra.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", ESPN Extra HD
+#EXTINF:-1 tvg-chno="27" tvg-country="USA" tvg-id="Espnextra.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ESPN_Extra_2018.png/revision/latest/scale-to-width-down/250?cb=20220602051039&path-prefix=es", ESPN Extra HD
 
 http://stream.crlive2.osllacdn.com/espnplushdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="28" tvg-country="USA" tvg-id="Foxsport3.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", Fox Sport 3 HD
+#EXTINF:-1 tvg-chno="28" tvg-country="USA" tvg-id="Foxsport3.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png", Fox Sport 3 HD
 
 http://stream.crlive2.osllacdn.com/foxsports3hdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="29" tvg-country="ARG" tvg-id="Tyc.ARG" tvg-language="Español" group-title="Deportes" tvg-logo="", TyC Sport HD
+#EXTINF:-1 tvg-chno="29" tvg-country="ARG" tvg-id="Tyc.ARG" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es", TyC Sport HD
 
 http://stream.crlive2.osllacdn.com/tycsportspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="30" tvg-country="MX" tvg-id="Tudn.MX" tvg-language="Español" group-title="Deportes" tvg-logo="", TUDN HD
+#EXTINF:-1 tvg-chno="30" tvg-country="MX" tvg-id="Tudn.MX" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest/scale-to-width-down/300?cb=20230211021027&path-prefix=es", TUDN HD
 
 http://stream.crlive1.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="31" tvg-country="ARG" tvg-id="Goltv.ARG" tvg-language="Español" group-title="Deportes" tvg-logo="", Gol TV 
+#EXTINF:-1 tvg-chno="31" tvg-country="ARG" tvg-id="Goltv.ARG" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/GolTVLatam-2008.png/revision/latest/scale-to-width-down/325?cb=20200105205716&path-prefix=es", Gol TV 
 
 http://stream.crlive2.osllacdn.com/goltvhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
 
-#EXTINF:-1 tvg-chno="32" tvg-country="USA" tvg-id="Turbo.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", TURBO 
+#EXTINF:-1 tvg-chno="32" tvg-country="USA" tvg-id="Turbo.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es", TURBO 
 
 http://stream.crlive2.osllacdn.com/discturbopan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="33" tvg-country="USA" tvg-id="Nfl.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", NFL 
+#EXTINF:-1 tvg-chno="33" tvg-country="USA" tvg-id="Nfl.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/NFL_Network_New.svg/revision/latest/scale-to-width-down/250?cb=20161124195846", NFL 
 
 http://stream.crlive1.osllacdn.com/nflnetworkcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="34" tvg-country="USA" tvg-id="Golf.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", Golf HD
+#EXTINF:-1 tvg-chno="34" tvg-country="USA" tvg-id="Golf.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Golf_Channel_PGA_Tour_2022.png/revision/latest/scale-to-width-down/185?cb=20220309150948", Golf HD
 
 http://stream.crlive2.osllacdn.com/golfhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="35" tvg-country="USA" tvg-id="pxsports.USA" tvg-language="Español" group-title="Deportes" tvg-logo="", PX SPORTS HD
+#EXTINF:-1 tvg-chno="35" tvg-country="USA" tvg-id="pxsports.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/px_sports-mediano.png", PX SPORTS HD
 
 http://stream.crlive1.osllacdn.com/pxsportshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
