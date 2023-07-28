@@ -296,7 +296,7 @@ http://stream.crlive1.osllacdn.com/hboxtremehdcr/vxfmt=dp/playlist.m3u8?device_p
 
 http://stream.crlive1.osllacdn.com/goldenhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="78" tvg-country="USA" tvg-id="GoldenPremier.USA" tvg-language="Español e Ingles" group-title="Peliculas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest/scale-to-width-down/350?cb=20201202010915&path-prefix=es", Golden Premier HD
+#EXTINF:-1 tvg-chno="78" tvg-country="USA" tvg-id="GoldenPremier.USA" tvg-language="Español e Ingles" group-title="Peliculas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png", Golden Premier HD
 
 http://stream.crlive1.osllacdn.com/goldenpremierhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
