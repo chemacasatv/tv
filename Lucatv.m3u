@@ -20,11 +20,11 @@ http://stream.crlive1.osllacdn.com/canal4cr/vxfmt=dp/playlist.m3u8?device_profil
 
 http://stream.crlive1.osllacdn.com/vmlatinocr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal6.jpg", Canal 6 Repretel
+#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal6.jpg", Canal 6 Repretel HD
 
 http://stream.crlive1.osllacdn.com/canal6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal 7 de Teletica (Costa Rica)" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/teletica.jpg", Canal 7 de Teletica
+#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal 7 de Teletica (Costa Rica)" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/teletica.jpg", Canal 7 Teletica HD
 
 http://stream.crlive1.osllacdn.com/teleticahdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -224,7 +224,7 @@ http://stream.crlive2.osllacdn.com/glitzpan/vxfmt=dp/playlist.m3u8?device_profil
 
 http://stream.crlive1.osllacdn.com/trutvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="60" tvg-country="USA" tvg-id="Isat.USA" tvg-language="Español" group-title="Entretenimiento" tvg-logo="https://libertycr.com/documents/297305827/297420738/isat.jpg", i Sat 
+#EXTINF:-1 tvg-chno="60" tvg-country="USA" tvg-id="Isat.USA" tvg-language="Español" group-title="Entretenimiento" tvg-logo="https://libertycr.com/documents/297305827/297420738/isat.jpg", iSat 
 
 http://stream.crlive2.osllacdn.com/isatpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
@@ -380,7 +380,7 @@ http://stream.crlive1.osllacdn.com/tvecr/vxfmt=dp/playlist.m3u8?device_profile=S
 
 http://stream.crlive2.osllacdn.com/antena3pan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="99" tvg-country="MX" tvg-id="Aztecaint.MX" tvg-language="Español" group-title="Internacional" tvg-logo="https://libertycr.com/documents/297305827/297420738/azmundo.jpg", Azteca Int
+#EXTINF:-1 tvg-chno="99" tvg-country="MX" tvg-id="Aztecaint.MX" tvg-language="Español" group-title="Internacional" tvg-logo="https://libertycr.com/documents/297305827/297420738/azmundo.jpg", Azteca Internacional
 
 http://stream.crlive2.osllacdn.com/azmunpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
 
@@ -388,7 +388,7 @@ http://stream.crlive2.osllacdn.com/azmunpan/vxfmt=dp/playlist.m3u8?device_profil
 
 http://stream.crlive2.osllacdn.com/nuestratelpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="101" tvg-country="VEN" tvg-id="Golboint.VEN" tvg-language="Español" group-title="Internacional" tvg-logo="https://libertycr.com/documents/297305827/297420738/globovisi%C3%B3n.jpg", Globo Int 
+#EXTINF:-1 tvg-chno="101" tvg-country="VEN" tvg-id="Golboint.VEN" tvg-language="Español" group-title="Internacional" tvg-logo="https://libertycr.com/documents/297305827/297420738/globovisi%C3%B3n.jpg", Globo Internacional 
 
 http://stream.crlive1.osllacdn.com/globovisioncr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
@@ -476,7 +476,7 @@ http://stream.crlive2.osllacdn.com/agropan/vxfmt=dp/playlist.m3u8?device_profile
 
 http://stream.crlive1.osllacdn.com/bitmecr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="123" tvg-country="USA" tvg-id="Dk.USA" tvg-language="Español" group-title="Infantiles" tvg-logo="https://libertycr.com/documents/297305827/297420738/discoverykids.jpg", DK HD
+#EXTINF:-1 tvg-chno="123" tvg-country="USA" tvg-id="Dk.USA" tvg-language="Español" group-title="Infantiles" tvg-logo="https://libertycr.com/documents/297305827/297420738/discoverykids.jpg", D Kids HD
 
 http://stream.crlive2.osllacdn.com/dsckidshdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
