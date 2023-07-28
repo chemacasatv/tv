@@ -4,7 +4,7 @@
 
 http://stream.crlive1.osllacdn.com/canal1hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="2" tvg-country="CR" tvg-id="Canal2.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/CDR_2_2013.png/revision/latest/scale-to-width-down/200?cb=20201015004843&path-prefix=es", Canal 2  
+#EXTINF:-1 tvg-chno="2" tvg-country="CR" tvg-id="Canal2.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal2.jpg", Canal 2  
 
 http://stream.crlive1.osllacdn.com/canal2cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
@@ -12,7 +12,7 @@ http://stream.crlive1.osllacdn.com/canal2cr/vxfmt=dp/playlist.m3u8?device_profil
 
 http://stream.crlive1.osllacdn.com/asambleacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD    
       
-#EXTINF:-1 tvg-chno="4" tvg-country="CR" tvg-id="4_de_costa_rica_repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Repretel_4.png/revision/latest/scale-to-width-down/200?cb=20201015010235&path-prefix=es", Canal 4  
+#EXTINF:-1 tvg-chno="4" tvg-country="CR" tvg-id="4_de_costa_rica_repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal4.jpg", Canal 4  
 
 http://stream.crlive1.osllacdn.com/canal4cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
@@ -20,27 +20,27 @@ http://stream.crlive1.osllacdn.com/canal4cr/vxfmt=dp/playlist.m3u8?device_profil
 
 http://stream.crlive1.osllacdn.com/vmlatinocr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Repretel_6.png/revision/latest/scale-to-width-down/200?cb=20201015011644&path-prefix=es", Canal 6 Repretel
+#EXTINF:-1 tvg-chno="6" tvg-country="CR" tvg-id="repretel" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal6.jpg", Canal 6 Repretel
 
 http://stream.crlive1.osllacdn.com/canal6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal 7 de Teletica (Costa Rica)" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Teletica_%28Canal_7_2015_con_eslogan%29.svg/revision/latest/scale-to-width-down/200?cb=20211222005729&path-prefix=es", Canal 7 de Teletica
+#EXTINF:-1 tvg-chno="7" tvg-country="CR" tvg-id="Canal 7 de Teletica (Costa Rica)" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/teletica.jpg", Canal 7 de Teletica
 
 http://stream.crlive1.osllacdn.com/teleticahdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="8" tvg-country="CR" tvg-id="Multimedios.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20211002192232&path-prefix=es", Multimedios HD
+#EXTINF:-1 tvg-chno="8" tvg-country="CR" tvg-id="Multimedios.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/multimedios.jpg", Multimedios HD
 
 http://stream.crlive1.osllacdn.com/multimedioshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="9" tvg-country="CR" tvg-id="Canal9.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Canal9CR2019.png/revision/latest/scale-to-width-down/200?cb=20210527010738&path-prefix=es", Canal 9
+#EXTINF:-1 tvg-chno="9" tvg-country="CR" tvg-id="Canal9.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal9.jpg", Canal 9
 
 http://stream.crlive1.osllacdn.com/canal9cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="10" tvg-country="CR" tvg-id="Xpertv.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/XperTV2015.png/revision/latest/scale-to-width-down/300?cb=20190918201756", Xpertv 
+#EXTINF:-1 tvg-chno="10" tvg-country="CR" tvg-id="Xpertv.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/xpertv.jpg", Xpertv 
 
 http://stream.crlive1.osllacdn.com/xpertvcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="11" tvg-country="CR" tvg-id="11_de_costa_rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Repretel_11.png/revision/latest/scale-to-width-down/200?cb=20201015012807&path-prefix=es", Canal 11 HD
+#EXTINF:-1 tvg-chno="11" tvg-country="CR" tvg-id="11_de_costa_rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal11.jpg", Canal 11 HD
 
 http://stream.crlive1.osllacdn.com/canal11hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -48,19 +48,19 @@ http://stream.crlive1.osllacdn.com/canal11hdcr/vxfmt=dp/playlist.m3u8?device_pro
 
 http://stream.crlive1.osllacdn.com/opacr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="13" tvg-country="CR" tvg-id="Canal 13 de Costa Rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal13CR2022.png/revision/latest/scale-to-width-down/200?cb=20220810025758", Canal 13 Sinart HD
+#EXTINF:-1 tvg-chno="13" tvg-country="CR" tvg-id="Canal 13 de Costa Rica" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canal13sinart.jpg", Canal 13 Sinart HD
 
 http://stream.crlive1.osllacdn.com/canal13sinarthdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="14" tvg-country="CR" tvg-id="Extratv42.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png", Extra tv 42 
+#EXTINF:-1 tvg-chno="14" tvg-country="CR" tvg-id="Extratv42.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/extratv42.jpg", Extra tv 42 
 
 http://stream.crlive1.osllacdn.com/extratv42hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
 
-#EXTINF:-1 tvg-chno="15" tvg-country="CR" tvg-id="Canalucr.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Canal_15_UCR_Logo_%282021%29.png/revision/latest/scale-to-width-down/180?cb=20210701151517", Canal UCR 
+#EXTINF:-1 tvg-chno="15" tvg-country="CR" tvg-id="Canalucr.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/canalucr.jpg", Canal UCR 
 
 http://stream.crlive1.osllacdn.com/canalucr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="16" tvg-country="CR" tvg-id="Enlace.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png", Enlace
+#EXTINF:-1 tvg-chno="16" tvg-country="CR" tvg-id="Enlace.CR" tvg-language="Español" group-title="Costa Rica" tvg-logo="https://libertycr.com/documents/297305827/297420738/enlacetbn.jpg", Enlace
 
 http://stream.crlive2.osllacdn.com/enlacepan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
@@ -76,67 +76,67 @@ http://stream.crlive1.osllacdn.com/teleunohdcr/vxfmt=dp/playlist.m3u8?device_pro
 
 http://stream.crlive1.osllacdn.com/canal54cr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="20" tvg-country="CR" tvg-id="Futv.CR" tvg-language="Español" group-title="Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fut_tv-mediano.png", FUTV HD
+#EXTINF:-1 tvg-chno="20" tvg-country="CR" tvg-id="Futv.CR" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/futv.jpg", FUTV HD
 
 http://stream.crlive1.osllacdn.com/futvhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="21" tvg-country="CR" tvg-id="Td+.CR" tvg-language="Español" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TDMasLogo22.png/225px-TDMasLogo22.png", TD+ HD
+#EXTINF:-1 tvg-chno="21" tvg-country="CR" tvg-id="Td+.CR" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/td.jpg", TD+ HD
 
 http://stream.crlive1.osllacdn.com/tdplushdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="22" tvg-country="CR" tvg-id="Td+2.CR" tvg-language="Español" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/768px-TD_M%C3%A1s_2_Logo.svg.png?20220114130154", TD+ 2 HD
+#EXTINF:-1 tvg-chno="22" tvg-country="CR" tvg-id="Td+2.CR" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/td.jpg", TD+ 2 HD
 
 http://stream.crlive1.osllacdn.com/tdplustwohdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="23" tvg-country="USA" tvg-id="Espn.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo-650x366.png", ESPN HD
+#EXTINF:-1 tvg-chno="23" tvg-country="USA" tvg-id="Espn.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/espn.jpg", ESPN HD
 
 http://stream.crlive2.osllacdn.com/espnhdpan_hevc/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="24" tvg-country="USA" tvg-id="Espn2.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png?20160127215859", ESPN 2 HD
+#EXTINF:-1 tvg-chno="24" tvg-country="USA" tvg-id="Espn2.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/espn2.jpg", ESPN 2 HD
 
 http://stream.crlive2.osllacdn.com/espn2hdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="25" tvg-country="USA" tvg-id="Espn3.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest/scale-to-width-down/300?cb=20200211201137&path-prefix=es", ESPN 3 HD
+#EXTINF:-1 tvg-chno="25" tvg-country="USA" tvg-id="Espn3.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/espn3.jpg", ESPN 3 HD
 
 http://stream.crlive2.osllacdn.com/espn3hdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="26" tvg-country="USA" tvg-id="Espn4.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211129170304&path-prefix=es", ESPN 4 HD
+#EXTINF:-1 tvg-chno="26" tvg-country="USA" tvg-id="Espn4.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/espn4.jpg", ESPN 4 HD
 
 http://stream.crlive2.osllacdn.com/foxsportshdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="27" tvg-country="USA" tvg-id="Espnextra.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ESPN_Extra_2018.png/revision/latest/scale-to-width-down/250?cb=20220602051039&path-prefix=es", ESPN Extra HD
+#EXTINF:-1 tvg-chno="27" tvg-country="USA" tvg-id="Espnextra.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/espnextrahd.jpg", ESPN Extra HD
 
 http://stream.crlive2.osllacdn.com/espnplushdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="28" tvg-country="USA" tvg-id="Foxsport3.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png", Fox Sport 3 HD
+#EXTINF:-1 tvg-chno="28" tvg-country="USA" tvg-id="Foxsport3.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/foxsports3hd.jpg", Fox Sport 3 HD
 
 http://stream.crlive2.osllacdn.com/foxsports3hdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="29" tvg-country="ARG" tvg-id="Tyc.ARG" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es", TyC Sport HD
+#EXTINF:-1 tvg-chno="29" tvg-country="ARG" tvg-id="Tyc.ARG" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/tycsportshd.jpg", TyC Sport HD
 
 http://stream.crlive2.osllacdn.com/tycsportspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="30" tvg-country="MX" tvg-id="Tudn.MX" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest/scale-to-width-down/300?cb=20230211021027&path-prefix=es", TUDN HD
+#EXTINF:-1 tvg-chno="30" tvg-country="MX" tvg-id="Tudn.MX" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/tudn.jpg", TUDN HD
 
 http://stream.crlive1.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="31" tvg-country="ARG" tvg-id="Goltv.ARG" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/GolTVLatam-2008.png/revision/latest/scale-to-width-down/325?cb=20200105205716&path-prefix=es", Gol TV 
+#EXTINF:-1 tvg-chno="31" tvg-country="ARG" tvg-id="Goltv.ARG" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/goltv.jpg", Gol TV 
 
 http://stream.crlive2.osllacdn.com/goltvhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SP
 
-#EXTINF:-1 tvg-chno="32" tvg-country="USA" tvg-id="Turbo.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es", TURBO 
+#EXTINF:-1 tvg-chno="32" tvg-country="USA" tvg-id="Turbo.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/discoveryturbo.jpg", TURBO 
 
 http://stream.crlive2.osllacdn.com/discturbopan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="33" tvg-country="USA" tvg-id="Nfl.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/NFL_Network_New.svg/revision/latest/scale-to-width-down/250?cb=20161124195846", NFL 
+#EXTINF:-1 tvg-chno="33" tvg-country="USA" tvg-id="Nfl.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/nfl.jpg", NFL 
 
 http://stream.crlive1.osllacdn.com/nflnetworkcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="34" tvg-country="USA" tvg-id="Golf.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Golf_Channel_PGA_Tour_2022.png/revision/latest/scale-to-width-down/185?cb=20220309150948", Golf HD
+#EXTINF:-1 tvg-chno="34" tvg-country="USA" tvg-id="Golf.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/golfchannel.jpg", Golf HD
 
 http://stream.crlive2.osllacdn.com/golfhdpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="35" tvg-country="USA" tvg-id="pxsports.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/px_sports-mediano.png", PX SPORTS HD
+#EXTINF:-1 tvg-chno="35" tvg-country="USA" tvg-id="pxsports.USA" tvg-language="Español" group-title="Deportes" tvg-logo="https://libertycr.com/documents/297305827/297420738/pxsports.jpg", PX SPORTS HD
 
 http://stream.crlive1.osllacdn.com/pxsportshdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -296,7 +296,7 @@ http://stream.crlive1.osllacdn.com/hboxtremehdcr/vxfmt=dp/playlist.m3u8?device_p
 
 http://stream.crlive1.osllacdn.com/goldenhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="78" tvg-country="USA" tvg-id="GoldenPremier.USA" tvg-language="Español e Ingles" group-title="Peliculas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png", Golden Premier HD
+#EXTINF:-1 tvg-chno="78" tvg-country="USA" tvg-id="GoldenPremier.USA" tvg-language="Español e Ingles" group-title="Peliculas" tvg-logo="https://libertycr.com/documents/297305827/297420738/goldenhd.jpg", Golden Premier HD
 
 http://stream.crlive1.osllacdn.com/goldenpremierhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -348,7 +348,7 @@ http://stream.crlive2.osllacdn.com/cnnintpan/vxfmt=dp/playlist.m3u8?device_profi
 
 http://stream.crlive2.osllacdn.com/foxnewspan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="91" tvg-country="USA" tvg-id="Hln.USA" tvg-language="Ingles" group-title="Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/HLN_2017.svg/revision/latest/scale-to-width-down/200?cb=20180305210847", HLN 
+#EXTINF:-1 tvg-chno="91" tvg-country="USA" tvg-id="Hln.USA" tvg-language="Ingles" group-title="Noticias" tvg-logo="https://libertycr.com/documents/297305827/297420738/cnnheadlinews.jpg", HLN 
 
 http://stream.crlive2.osllacdn.com/hlnpan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
@@ -392,7 +392,7 @@ http://stream.crlive2.osllacdn.com/nuestratelpan/vxfmt=dp/playlist.m3u8?device_p
 
 http://stream.crlive1.osllacdn.com/globovisioncr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
-#EXTINF:-1 tvg-chno="102" tvg-country="ARG" tvg-id="Eltrece.ARG" tvg-language="Español" group-title="Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Canal_13_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305011850&path-prefix=es", El Trece 
+#EXTINF:-1 tvg-chno="102" tvg-country="ARG" tvg-id="Eltrece.ARG" tvg-language="Español" group-title="Internacional" tvg-logo="https://libertycr.com/documents/297305827/297420738/artear.jpg", El Trece 
 
 http://stream.crlive2.osllacdn.com/canal13pan/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
@@ -508,11 +508,11 @@ http://stream.crlive2.osllacdn.com/telehitpan/vxfmt=dp/playlist.m3u8?device_prof
 
 http://stream.crlive1.osllacdn.com/telehithdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="131" tvg-country="USA" tvg-id="Mtv.USA" tvg-language="Español" group-title="Musica" tvg-logo="https://libertycr.com/documents/297305827/297420738/mtv.jpg", MTV HD
+#EXTINF:-1 tvg-chno="131" tvg-country="USA" tvg-id="Mtv.USA" tvg-language="Español" group-title="Musica" tvg-logo="https://libertycr.com/documents/297305827/297420738/mtvhd.jpg", MTV HD
 
 http://stream.crlive1.osllacdn.com/mtvhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-chno="132" tvg-country="USA" tvg-id="Mtv80s.USA" tvg-language="Español" group-title="Musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/MTV_80s_%28UK_%26_Ireland%29.png/revision/latest/scale-to-width-down/200?cb=20220331070338", MTV 80s 
+#EXTINF:-1 tvg-chno="132" tvg-country="USA" tvg-id="Mtv80s.USA" tvg-language="Español" group-title="Musica" tvg-logo="https://libertycr.com/documents/297305827/297420738/mtv.jpg", MTV 80s 
 
 http://stream.crlive1.osllacdn.com/vh1claasiccr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
